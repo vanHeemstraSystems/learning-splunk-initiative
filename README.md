@@ -1,2 +1,2 @@
-# learning-splunk-initiative
-Learning Splunk - Initiative
+learning-splunk-initiative
+# Learning Splunk - Initiative
